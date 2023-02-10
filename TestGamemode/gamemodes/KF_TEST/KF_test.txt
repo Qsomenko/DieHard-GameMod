@@ -1,0 +1,20 @@
+"BestGamemode"
+{
+	"base"		"base"
+	"title"		"KF_test"
+	"maps"		"^gm_"
+	"category"	"pve"
+	"menusystem"	"1"
+
+ 	"workshopid"    "N/A"
+
+    	"author_name"   "SolBadGuy"
+    	"author_email"  "stolikki.klanov@mail.ru"
+    	"author_url"    "N/A"
+
+    	"icon"  ""
+   		"info"  ""
+    	"hide"  "0"
+	
+
+}
