@@ -7,4 +7,4 @@ Thanks to the authors for the inspiration and lessons:
 HOLYWIREMOD(Omni Games);
 Artes'ом;
 
-Installation: Поместить папку TestGamemode в D:\?\Steam\steamapps\common\GarrysMod\garrysmod\addons
+Installation: Поместить папку TestGamemode в диск:\folder\Steam\steamapps\common\GarrysMod\garrysmod\addons
